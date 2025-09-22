@@ -1,14 +1,14 @@
 Installation and Running the Application
 
 
-1.Clone the repository:
+1. Clone the repository:
 
 
 git clone https://github.com/rajib-6311/simple-SPF-checker-web-app.git
 cd simple-SPF-checker-web-app
 
 
-2.Install client dependencies and run Client:
+2. Install client dependencies and run Client:
 
 
 
