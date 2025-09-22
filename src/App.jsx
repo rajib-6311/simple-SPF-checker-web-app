@@ -26,7 +26,7 @@ export default function App() {
       const data = await res.json();
 
       if (!data.Answer) {
-        setError("No TXT records found.");
+        setError("No SPF records found.");
         setLoading(false);
         return;
       }
