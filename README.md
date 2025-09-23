@@ -12,6 +12,15 @@
     npm install
     npm run dev
     ```
+
+    ### Input
+   ```bash
+   google.com
+   ```
+   ### Output
+   ```bash
+   v=spf1 include:_spf.google.com ~all
+   ```
     
 ### Assumptions & Limitations:
 
